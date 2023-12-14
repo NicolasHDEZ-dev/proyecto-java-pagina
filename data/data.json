@@ -1,0 +1,44 @@
+[
+    {
+       "id":"J1-FRAG",
+       "nombre":"Jordan 1 Fragment",
+       "precio":300,
+       "talle":"9us",
+       "img":"./img/j1frag.png"
+    },
+    {
+       "id":"J1-BT",
+       "nombre":"Jordan 1 Black Toe",
+       "precio":260,
+       "talle":"11us",
+       "img":"./img/Jordan1-bred.png"
+    },
+    {
+       "id":"J4-BRED",
+       "nombre":"Jordan 4 Bred",
+       "precio":250,
+       "talle":"9.5us",
+       "img":"./img/4-bred.png"
+    },
+    {
+       "id":"J11-CC",
+       "nombre":"Jordan 11 Concord",
+       "precio":220,
+       "talle":"10us",
+       "img":"./img/Jordan11-concord.png"
+    },
+    {
+       "id":"N-UP",
+       "nombre":"Nike Uptempo",
+       "precio":150,
+       "talle":"8us",
+       "img":"./img/uptempo.png"
+    },
+    {
+       "id":"N-AX1",
+       "nombre":"Nike Airmax 1",
+       "precio":200,
+       "talle":"9us",
+       "img":"./img/airmax.png"
+    }
+ ]
